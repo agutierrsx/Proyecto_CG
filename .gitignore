@@ -1,0 +1,58 @@
+# Unity: datos regenerados al abrir el proyecto.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/MemoryCaptures/
+/Recordings/
+/UIElementsSchema/
+
+# Archivos locales y herramientas del editor.
+/.local/
+/Respaldo/
+/Farmer by Quaternius - 7pn3R6hPvE/
+/.vscode/
+/.vs/
+/.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+*.log
+*.tmp
+*.bak
+*.unitypackage
+*.unitypackage.meta
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+mono_crash.*
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Copias y carpetas temporales generadas por Unity.
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+/*_BurstDebugInformation_DoNotShip/
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+/Assets/Addressables_Temp/
+/Assets/Addressables_Temp.meta
+/Assets/Plugins/Editor/JetBrains*
+/Assets/**/*.blend1
+/Assets/**/*.blend1.meta
+
+# Los archivos .meta de los recursos se conservan en Git.

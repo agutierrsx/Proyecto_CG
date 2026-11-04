@@ -1,0 +1,26 @@
+* text=auto
+
+*.cs text eol=lf
+*.shader text eol=lf
+*.hlsl text eol=lf
+*.cginc text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.unity text eol=lf
+*.prefab text eol=lf
+*.mat text eol=lf
+*.controller text eol=lf
+*.terrainlayer text eol=lf
+*.meta text eol=lf
+
+# Unity guarda tanto assets de texto como datos binarios de Terrain y mallas.
+*.asset -text
+*.fbx binary
+*.obj binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.exr binary
+*.hdr binary
+*.ttf binary
+*.woff binary
