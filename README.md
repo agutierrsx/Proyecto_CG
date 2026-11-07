@@ -4,6 +4,10 @@ Proyecto de **Computación Gráfica** desarrollado en **Unity 6**. Representa un
 
 ![Vista general de la granja y del valle](docs/imagenes/granja.png)
 
+## Presentación
+
+La [presentación del proyecto](docs/presentacion/Proyecto_CG_Presentacion.pptx) explica la construcción del escenario, el control del personaje y los efectos de renderizado.
+
 ## Abrir y ejecutar
 
 | Requisito | Versión |
@@ -71,6 +75,7 @@ Assets/
 Packages/                    # Dependencias y versiones
 ProjectSettings/             # Ajustes de Unity y escena de compilación
 docs/imagenes/               # Capturas del proyecto
+docs/presentacion/           # Presentación en PowerPoint
 Licencias/                   # Avisos de los recursos de terceros
 ```
 

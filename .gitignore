@@ -17,6 +17,7 @@
 /.vscode/
 /.vs/
 /.idea/
+/docs/presentacion/Apuntes*
 *.csproj
 *.unityproj
 *.sln
